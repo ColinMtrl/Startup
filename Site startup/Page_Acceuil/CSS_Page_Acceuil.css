@@ -29,7 +29,7 @@ div#icon
     top: 25%;
     left: 0px;
     z-index: 99999;
-	font-family: Modern Sans Light;
+
 }
 body
 {
@@ -97,13 +97,15 @@ titre#centrer{
 	margin-right:auto;
 }
 img{
-	width: 200px;
-	height: 200px;
+	width: 75px;	
 }
 div#texte_logo{
 	float:left;
 	font-family: Modern Sans Light;
 	font-size: 30px;
 	text-align:justify;
+}
+
+
 	
 	
