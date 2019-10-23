@@ -1,0 +1,109 @@
+
+div#nom
+{	float:right;
+	width:8em;
+	margin-right:0px;
+	font-family: Modern Sans Light;
+}
+
+div#titre
+{
+	width:8em;
+	height:100%;
+	color:#5F9EA0;
+	font-family: Quantum;
+	font-size: 80px;
+	text-align:center;
+	display:block;
+}
+div#texte_intro
+{
+	width:100%;
+	font-family: Modern Sans Light;
+	font-size: 30px;
+	text-align:justify;
+}
+div#icon
+{
+	position: fixed;
+    top: 25%;
+    left: 0px;
+    z-index: 99999;
+	font-family: Modern Sans Light;
+}
+body
+{
+	background-color:#FFEBCD;
+}
+div#menu_selcetion
+
+ul {
+ padding:0;
+ margin:0;
+ list-style-type:none;
+ font-family: Modern Sans Light;
+ }
+li {
+ margin-left:2px;
+ float:left;
+ font-family: Modern Sans Light;
+ }
+ul li a {
+ display:block;
+ float:left;   
+ width:100px;
+ background-color:#6495ED;
+ color:black;
+ text-decoration:none;
+ text-align:center;
+ font-family: Modern Sans Light;
+ padding:5px;
+ border:2px solid;
+ border-color:#DCDCDC #696969 #696969 #DCDCDC;
+ }
+ul li a:hover {
+ background-color:#D3D3D3;
+ border-color:#696969 #DCDCDC #DCDCDC #696969;
+ font-family: Modern Sans Light;
+ } 
+
+ div#texte_video{
+	 float:right;
+	 width:20%;
+	 border:2px ridge black;
+	 font-family: Modern Sans Light;
+	 font-size: 30px;
+	 font-style: bold;
+	 text-align:justify;
+	 margin
+	 
+ }
+div#texte{
+	width:100%;
+	font-family: Modern Sans Light;
+	font-size: 30px;
+	text-align:justify;
+
+}
+div#video{
+	float:right;
+	margin-top:5px;
+}
+div#image{
+	position:absolute
+}
+titre#centrer{
+	margin-left:auto;
+	margin-right:auto;
+}
+img{
+	width: 200px;
+	height: 200px;
+}
+div#texte_logo{
+	float:left;
+	font-family: Modern Sans Light;
+	font-size: 30px;
+	text-align:justify;
+	
+	

@@ -1,0 +1,35 @@
+div#titre{
+	width:100%;
+	color:#5F9EA0;
+	font-family: Quantum;
+	font-size: 80px;
+	text-align:center;
+}
+body
+{
+	background-color:#FFEBCD;
+}
+div#texte
+{
+	width:100%;
+	font-family: Modern Sans Light;
+	font-size:30px;
+}
+div#icon
+{
+	position: fixed;
+    top: 25%;
+    left: 0px;
+    z-index: 99999;
+	font-family: Modern Sans Light;
+}
+img{
+	width: 350px;
+	height: 200px;
+}
+div#textep{
+	width:100%;
+	font-family: Modern Sans Light;
+	font-size: 30px;
+	text-align:justify;
+}

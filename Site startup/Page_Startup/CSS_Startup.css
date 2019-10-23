@@ -1,0 +1,29 @@
+body
+{
+	background-color:#FFEBCD;
+}
+div#titre{
+	width:100%;
+	color:#5F9EA0;
+	font-family: Quantum;
+	font-size: 80px;
+	text-align:center;
+}
+div#texte
+{
+	width:100%;
+	font-family: Modern Sans Light;
+	font-size:30px;
+}
+div#icon
+{
+	position: fixed;
+    top: 25%;
+    left: 0px;
+    z-index: 99999;
+	font-family: Modern Sans Light;
+}
+img{
+	width:700px;
+	height:300px;
+}
